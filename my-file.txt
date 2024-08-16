@@ -1,6 +1,0 @@
-This is the first line. Absolutely, the first line.
-This is the second line. Yep, this is the second line.
-I am going to add new line in this existing file 
-
-
-###Welcome to DEVNET World####
